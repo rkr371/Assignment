@@ -1,0 +1,6 @@
+{
+  "name": "AIVOA QMS | Customer Complaint AI Copilot",
+  "description": "AI-Powered Customer Complaint Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
